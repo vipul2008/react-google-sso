@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "483663050134-t8i1l0jgaao4mjt52r32ae839qonpijg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactgooglesso.app",
+            "certificate_hash": "65fc9ee32581aece5b499ac731cc8fe0b0ffdbb7"
+          }
+        },
+        {
           "client_id": "483663050134-2gfa8vlo3b7bgs205pe797b8ghk3uc9g.apps.googleusercontent.com",
           "client_type": 3
         }
