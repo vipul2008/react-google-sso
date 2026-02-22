@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:483663050134:android:7125f516759ec381fc99b7",
+        "mobilesdk_app_id": "1:483663050134:android:44484706f002765cfc99b7",
         "android_client_info": {
           "package_name": "com.reactgooglesso.app"
         }
@@ -29,6 +29,13 @@
             {
               "client_id": "483663050134-2gfa8vlo3b7bgs205pe797b8ghk3uc9g.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "483663050134-c0s50vr6ksarl5l2c7ru2588tdscksmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactgooglesso.app"
+              }
             }
           ]
         }
