@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483663050134",
+    "project_id": "my-auth-a5gz3d",
+    "storage_bucket": "my-auth-a5gz3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483663050134:android:7125f516759ec381fc99b7",
+        "android_client_info": {
+          "package_name": "com.reactgooglesso.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483663050134-2gfa8vlo3b7bgs205pe797b8ghk3uc9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQOXQie_fysLKacBppzwLsR1f2_9bLVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483663050134-2gfa8vlo3b7bgs205pe797b8ghk3uc9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
